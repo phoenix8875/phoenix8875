@@ -1,4 +1,5 @@
 # 💫 About Me:
+MCA (Data  Science) @JECRC UNIVERSITY
 Machine Learning Intern
 
 
